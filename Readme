@@ -1,0 +1,43 @@
+121 AI Coach – Financial Planning Studio
+121 AI Coach is a browser-based financial planning tool designed to bring an individual's or household's entire financial picture into one place. It connects income, expenses, investments, assets, liabilities, retirement planning and long-term financial goals to provide a unified view of financial health.
+
+The objective is to help users understand their current financial position, estimate future financial requirements and evaluate how their present financial decisions may affect their long-term goals.
+Key Features
+1. Income and Expense Analysis
+- Record income from multiple sources, including salary, rental income and other earnings.
+- Track monthly expenses such as loan repayments, insurance premiums, household costs, education fees and other commitments.
+- Calculate total income, total expenses and monthly disposable income.
+- Account for changes such as salary increments and loans expected to close.
+2. Net Worth Assessment
+- Record assets such as residential properties, land, shares, mutual funds, fixed deposits and gold.
+- Track liabilities, including housing loans, personal loans and vehicle loans.
+- Estimate future asset values using assumed growth rates.
+- Understand the overall financial position through an organised net worth assessment.
+3. Retirement Planning
+- Estimate the retirement corpus required to support future expenses.
+- Account for inflation, expected investment returns and retirement duration.
+- Project future income requirements and savings needs.
+- Evaluate whether current financial resources can support retirement goals.
+4. Goal-Based Financial Planning
+- Estimate savings requirements for major financial commitments.
+- Plan for children's education and marriage.
+- Include estate planning requirements.
+- Understand how different financial goals contribute to overall savings requirements.
+5. SIP and Investment Calculator
+- Calculate the projected growth of Systematic Investment Plans.
+- Support percentage-based and fixed-amount annual SIP increases.
+- View yearly investment growth, total contributions and projected gains.
+- Evaluate how investment duration and expected returns affect the final corpus.
+6. Financial Feasibility Analysis
+- Consolidate retirement, education, marriage and estate planning requirements.
+- Compare monthly savings requirements against available disposable income.
+- Identify potential financial surpluses or shortfalls.
+- Provide an overall view of whether planned financial goals appear achievable under the selected assumptions.
+Financial Modelling
+At its core, 121 AI Coach is built around an integrated financial calculation engine. It uses calculations corresponding to standard financial functions such as Future Value, Present Value and Payment.
+
+Rather than treating every financial decision as an isolated calculation, the tool connects different parts of a financial plan. Changes in income, expenses, investment assumptions, inflation or planning timelines can influence the overall projections.
+Reports and Exports
+Users can generate detailed financial reports in PDF and Excel formats.
+- PDF Reports: Include key financial metrics, tables, projections and visual summaries.
+- Excel Exports: Provide structured financial information for further analysis.
